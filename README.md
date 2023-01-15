@@ -1,6 +1,6 @@
 ![Perx Health](https://user-images.githubusercontent.com/4101096/163123610-9dfa9263-1518-4f5d-8839-9ddc142a513e.png)
 
-[![Build Status](https://github.com/perxhealth/eslint-config-perxhealth/actions/workflows/publish.yml/badge.svg)](https://github.com/perxhealth/eslint-config-perxhealth/actions/workflows/publish.yml) [![Build Status](https://github.com/perxhealth/eslint-config-perxhealth/actions/workflows/main.yml/badge.svg)](https://github.com/perxhealth/eslint-config-perxhealth/actions/workflows/main.yml)
+[![Build Status](https://github.com/perxhealth/eslint-config-perxhealth/actions/workflows/publish.yaml/badge.svg)](https://github.com/perxhealth/eslint-config-perxhealth/actions/workflows/publish.yaml) [![Build Status](https://github.com/perxhealth/eslint-config-perxhealth/actions/workflows/main.yaml/badge.svg)](https://github.com/perxhealth/eslint-config-perxhealth/actions/workflows/main.yaml)
 
 Perx Health's standard, base ESLint configuration for Node and TypeScript
 projects. This package provides Perx's `.eslintrc` as an extensible, shared
