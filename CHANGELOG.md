@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/perxhealth/eslint-config-perxhealth/compare/v1.0.0...v1.0.1) (2023-01-15)
+
+
+### Bug Fixes
+
+* Fix target paths ([cefe116](https://github.com/perxhealth/eslint-config-perxhealth/commit/cefe116b11b2b3a8da5eec18c35f14231f0507ed))
+
 # 1.0.0 (2023-01-15)
 
 
