@@ -33,6 +33,17 @@ module.exports = {
     },
   ],
   rules: {
-    // Add your own rules here to override ones from the extended configs.
+    // Enforce expected Prettier config. If any of these rules pop after
+    // formatting, that'll indicate an incompatible Prettier config
+    "prettier/prettier": [
+      "error",
+      {
+        semi: false,
+        singleQuote: false,
+        bracketSpacing: true,
+        arrowParens: "always",
+        trailingComma: "es5"
+      }
+    ]
   },
 }
