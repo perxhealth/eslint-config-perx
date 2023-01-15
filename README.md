@@ -6,6 +6,21 @@ Perx Health's standard, base ESLint configuration for Node and TypeScript
 projects. This package provides Perx's `.eslintrc` as an extensible, shared
 config.
 
+## Overview
+
+Our config stands on the shoulders of existing, open source giants. We export
+(currently) a single entry point for all Node/JavaScript project types.
+
+e.g. we currently make no distinction between a project in which React is
+present, whether TypeScript is present, etc...
+
+- [eslint:recommend](https://eslint.org/docs/latest/rules/)
+- [plugin:react/recommended](https://www.npmjs.com/package/eslint-plugin-react)
+- [plugin:import/recommended](https://www.npmjs.com/package/eslint-plugin-import)
+- [plugin:import/typescript](https://www.npmjs.com/package/eslint-import-resolver-typescript)
+- [plugin:jsx-a11y/recommended](https://www.npmjs.com/package/eslint-plugin-jsx-a11y)
+- [plugin:@typescript-eslint/recommended](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin)
+- [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier)
 
 ## Installation
 
@@ -59,8 +74,7 @@ Perx we prefer using `.yaml` files, but there's [many ways to do so](https://esl
 Create a file named `.eslintrc.yaml`.
 
 ```yaml
-extends:
-  - perxhealth
+extends: perxhealth
 ```
 
 Or with JavaScript, create `.eslintrc.js`.
