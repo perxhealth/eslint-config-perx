@@ -11,8 +11,8 @@
   "main": "dist/eslint-config-perxhealth.umd.js",
   "exports": {
     ".": {
-      "import": "dist/eslint-config-perxhealth.js",
-      "require": "dist/eslint-config-perxhealth.umd.js"
+      "import": "./dist/eslint-config-perxhealth.js",
+      "require": "./dist/eslint-config-perxhealth.umd.js"
     }
   },
   "engines": {
