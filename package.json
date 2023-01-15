@@ -3,12 +3,22 @@
   "private": false,
   "version": "1.0.1",
   "main": "index.js",
+  "license": "MIT",
   "files": [
     "index.js"
   ],
   "engines": {
     "node": ">=16"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/perxhealth/eslint-config-perxhealth"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "perxhealth"
+  ],
   "scripts": {
     "lint": "eslint",
     "release": "semantic-release"
