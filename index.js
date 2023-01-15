@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   extends: [
     // By extending from a plugin config, we can get recommended rules without having to add them manually.
     "eslint:recommended",
