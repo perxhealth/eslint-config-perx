@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/perxhealth/eslint-config-perxhealth/compare/v1.0.2...v1.0.3) (2023-01-15)
+
+
+### Bug Fixes
+
+* Remove redundant Prettier section ([968b83f](https://github.com/perxhealth/eslint-config-perxhealth/commit/968b83f01b2f16b8720017ae5f8994608bbfb0a0))
+
 ## [1.0.2](https://github.com/perxhealth/eslint-config-perxhealth/compare/v1.0.1...v1.0.2) (2023-01-15)
 
 
