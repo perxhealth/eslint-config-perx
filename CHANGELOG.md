@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/perxhealth/eslint-config-perxhealth/compare/v1.0.3...v1.0.4) (2023-01-15)
+
+
+### Performance Improvements
+
+* Add overview to README ([bfd72c7](https://github.com/perxhealth/eslint-config-perxhealth/commit/bfd72c7f326a198604ca23a06d2bb275f891ec83))
+
 ## [1.0.3](https://github.com/perxhealth/eslint-config-perxhealth/compare/v1.0.2...v1.0.3) (2023-01-15)
 
 
