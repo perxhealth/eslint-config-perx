@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/perxhealth/eslint-config-perxhealth/compare/v1.0.1...v1.0.2) (2023-01-15)
+
+
+### Bug Fixes
+
+* Update GitHub actions, removes unnecessary bundling ([adf5ab6](https://github.com/perxhealth/eslint-config-perxhealth/commit/adf5ab6bbf8428608fc963c885fb2ddcc3d15f39))
+
 ## [1.0.1](https://github.com/perxhealth/eslint-config-perxhealth/compare/v1.0.0...v1.0.1) (2023-01-15)
 
 
