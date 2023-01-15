@@ -32,23 +32,16 @@ JavaScript project.
 
 ### Install ESLint and Prettier
 
-This package expects `eslint` and `prettier` to be installed as peer
-dependencies.
+Just in case you haven't done so already, you'll want `eslint` and `prettier`
+to be installed before attempting to use this config package.
 
 ```bash
 $ pnpm install -D eslint prettier
 ```
 
-To view a list of all peer dependencies, run the following command
+### Install Perx Config
 
-```
-$ pnpm info "eslint-config-perxhealth@latest" peerDependencies
-```
-
-### Add Config Package
-
-First, install the package from the npm registry with your package manager of
-choice.
+Add the package from the npm registry with your package manager of choice.
 
 ```bash
 $ pnpm install -D eslint-config-perxhealth
@@ -66,10 +59,10 @@ Or with `npm`
 $ npm install --save-dev eslint-config-perxhealth
 ```
 
-### Add ESLint Config
+### Update ESLint Config
 
 Configure your project's ESLint config to use the newly installed package. At
-Perx we prefer using `.yaml` files, but there's [many ways to do so](https://eslint.org/docs/latest/use/configure/configuration-files#using-configuration-files)
+Perx we prefer using `.yaml` files, but there's [many ways to do so](https://eslint.org/docs/latest/use/configure/configuration-files#using-configuration-files).
 
 Create a file named `.eslintrc.yaml`.
 
